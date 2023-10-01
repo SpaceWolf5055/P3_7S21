@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">P3_7S21</string>
+    <string name="titulop1">Programando android</string>
+    <string name="titulomenu">Menu principal</string>
+    <string name="Sumanum">Suma de dos Numeros</string>
+    <string name="tnum1">Ingrese el primer valor</string>
+    <string name="tnum2">Ingrese el segundo valor</string>
+    <string name="emergente0">Ingrese dato aqui</string>
+    <string name="emergente1">Ingrese otro dato aqui</string>
+    <string name="tbtncalcular"></string>
+</resources>
